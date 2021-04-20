@@ -1,0 +1,8 @@
+Para que funcione la version PHP 7
+poner en :
+public static function unichr($c, $unicode=true){
+	if(is_numeric($c)) {  este if lo ponemos para que funcione en PHP 7
+		bla bla bla....
+
+ }
+}

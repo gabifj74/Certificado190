@@ -1,0 +1,53 @@
+
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {
+
+    background:#FFFFFF;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#def8fd));
+    background: -moz-linear-gradient(top, #FFFFFF, #def8fd);
+    background: -o-linear-background(top, #FFFFFF, #def8fd);
+    background: -ms-linear-background(top, #FFFFFF, #def8fd);
+    background: -webkit-linear-gradient(top, #FFFFFF, #def8fd);
+    background: linear-background(top, #FFFFFF, #def8fd);
+}
+
+.terminos:visited, .terminos:link, .terminos:active {
+    outline: none;
+    text-decoration: none;
+    color: white;
+}
+.terminos:hover{
+    color: #A1C8F5;
+    text-decoration: none;
+}
+
+.download:visited, .download:link, .download:active{
+    outline: none;
+    text-decoration: none;
+    color:#0A6AD8;
+}
+.download:hover {
+    color:#5E8EC5;
+}
+
+
+
+footer {
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height:40px;
+    background-color: #17375C;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+
+}
