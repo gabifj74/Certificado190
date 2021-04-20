@@ -13,3 +13,5 @@ Obtenemos los datos a partir del formulario. Generar directorio único. Validar 
 del logo. Mostrar los posibles errores. Guardar el Excel y la imagen en el directorio. Leer el documento Excel para obtener los
 datos. Validar los datos del Excel. Mostrar posibles errores. Crear n objetos de la clase PdfModeloFFC.php y generar los
 certificados. Se creara un .zip para agrupar los pdfs y se descargarán. Eliminar el directorio.
+
+#### https://www.pupgam.com/webapp/certificado_irpf/controlador.php
